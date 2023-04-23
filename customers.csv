@@ -1,0 +1,8 @@
+,id,name,mobile,emailid,dob,age,gender,userid,secques,answer,status
+0,2001,Sachin Tendulkar,9655886632,sohamtraining@outlook.com,24-04-1972,48,Male,sac@2001,Which is your favorite sport?,cricket,active
+1,2002,Steve Smith,8596969696,sohamtraining@outlook.com,02-06-1989,26,Male,stv@2002,What is your neighbor's name?,tom,active
+2,2003,Alvero Morata,8596336621,sohamtraining@outlook.com,13-01-1982,38,Male,alv@2003,Which is your favorite sport?,football,active
+3,2004,Ben Stokes,8544775123,sohamtraining@outlook.com,04-06-1991,31,Male,ben@2004,What is your college name?,oxford,active
+4,2005,Emily Blunt,9877665512,sohamtraining@outlook.com,03-02-1995,25,Female,eml@2005,Which is your favorite dress type?,western,active
+5,2008,Jos Buttler,7557988221,buttler@outlook.com,08-09-1990,25,Male,jos@2008,Most liked stadium?,lords,active
+6,2734,Eoin Morgan,9843277655,morgan@gmail.com,10-09-1986,34,Male,mor@7463,Most liked city?,london,active
